@@ -1,16 +1,14 @@
 PPDP 2024 Call For Papers
 =========================
 
-The 25th International Symposium on
-Principles and Practice of Declarative Programming,
-[PPDP 2024]
+The 26th International Symposium on
+Principles and Practice of Declarative Programming, PPDP 2024
 
-Co-located with FM'24, 
-held 9-11 September 2024 at the Politecnico di Milano,  Italy.
-
+Co-located with FM 2024, held 9-11 September 2024 at the Politecnico di
+Milano, Italy.
 
 
-Abstract deadline: 06 May; paper deadline: 13 May.
+**Abstract deadline: 06 May; paper deadline: 13 May.**
 
 Scope
 -----
@@ -55,12 +53,12 @@ programming inside and outside of CS; declarative programming
 pearls; practical experience reports and industrial application;
 education.
 
-The PC chair will be happy to advise on the appropriateness of a topic.
+The PC chairs will be happy to advise on the appropriateness of a topic.
 
-PPDP will take place 9-11 September 2024 at thePolitecnico di Milano, 
+PPDP will take place 9-11 September 2024 at the Politecnico di Milano, 
 Italy, co-located with the 34th Int'l Symp. on Logic-Based Program
 Synthesis and Transformation (LOPSTR 2024)
-within the umbrella of FM 2024 (https://www.fm24.polimi.it/)
+within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
 
 
 Submission Categories
@@ -127,13 +125,13 @@ Format of a submission
 ----------------------
 
 For each paper category, you must use the most recent version of the
-"Current ACM Master Template" which is available at
-(https://www.acm.org/publications/proceedings-template). The most
-recent version at the time of writing is 2.01. You must use the LaTeX
-sigconf proceedings template as the conference organizers are unable
-to process final submissions in other formats. In case of problems with
-the templates, contact
-[ACM's TeX support team at Aptara](mailto:acmtexsupport@aptaracorp.com).
+[Current ACM Master
+Template](https://www.acm.org/publications/proceedings-template), 
+ at the time of writing being 2.01. You must use the
+LaTeX sigconf proceedings template, as the conference organizers are
+unable to process final submissions in other formats. In case of
+problems with the templates, contact [ACM's TeX support team at
+Aptara](mailto:acmtexsupport@aptaracorp.com).
 
 Authors should note [ACM's statement on author's
 rights](http://authors.acm.org/) which apply to final papers.
@@ -151,24 +149,27 @@ cannot be resolved by the final paper deadline.
 
 Review process
 ----------------------------------
-The reviewing is single-blind. 
+The reviewing is single-blind, with a two-days rebuttal phase.
 
 Important dates
-
-
--------------------------------- ----- ---- ----------
+-------------------------------- 
 Title and abstract registration: 06 May 2024 (AoE)
+
 Paper submission: 13 May 2024 (AoE)
+
 Rebuttal period (48 hours): 22-23 June 2024 (AoE)
+
 Author notification: 3 July 2024
+
 Final paper version: 24 July 2024
+
 Conference: 9-11 Sept 2024
--------------------------------- ----- ---- ----------
+
 
 Organization
 ------------
+Program committee chairs: Alessandro Bruni (IT-University of Copenhagen), Alberto Momigliano (Università degli Studi di Milano)
 
-------------------------- -------------------- ---------------------
-Program committee chairs: Alessandro Bruni (IT-University of Copenhagen), Alberto Momigliano (Università degli studi di Milano)
 General chairs: Matteo Pradella & Matteo Rossi (Politecnico di Milano)
+
 Steering committee chair: James Cheney (Edinburgh University)
