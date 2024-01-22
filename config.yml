@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: PPDP 2024
+description: 26th International Symposium on Principles and Practice of Declarative Programming 
