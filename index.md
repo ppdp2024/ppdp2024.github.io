@@ -1,3 +1,7 @@
+---
+title: PPDP 2024
+---
+
 PPDP 2024 Call For Papers
 =========================
 
