@@ -1,13 +1,26 @@
+---
+title: PPDP 2024
+---
+
 PPDP 2024 Call For Papers
 =========================
 
 The 26th International Symposium on
 Principles and Practice of Declarative Programming, PPDP 2024
+<<<<<<< HEAD:README.md
+
+Co-located with FM 2024, held 9-11 September 2024 at the Politecnico di
+Milano, Italy.
+=======
+>>>>>>> 9510a01eec6381fc29450ae189a731d1fe16f82c:index.md
 
 Co-located with FM 2024, held 9-11 September 2024 at the Politecnico di
 Milano, Italy.
 
+<<<<<<< HEAD:README.md
+=======
 
+>>>>>>> 9510a01eec6381fc29450ae189a731d1fe16f82c:index.md
 **Abstract deadline: 06 May; paper deadline: 13 May.**
 
 Scope

@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.page-header {
+  background-image: url('/assets/media/milano1.jpg');
+  height: 80vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-title {
+  text-shadow: 5px 5px black;
+}
+
+.project-tagline {
+  text-shadow: 3px 3px black;
+}
