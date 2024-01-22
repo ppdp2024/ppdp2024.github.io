@@ -6,4 +6,9 @@
 
 .page-header {
   background-image: url('/assets/media/milano1.jpg');
+  height: 80vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
 }
