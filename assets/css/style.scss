@@ -6,6 +6,7 @@
 
 .page-header {
   background-image: url('/assets/media/milano1.jpg');
+  background-size: cover;
   height: 80vh;
   display: flex;
   flex-flow: column;
@@ -13,10 +14,12 @@
   justify-content: center;
 }
 
-.project-title {
+.project-name {
   text-shadow: 5px 5px black;
 }
 
 .project-tagline {
-  text-shadow: 3px 3px black;
+  text-shadow: 2px 2px black;
+  font-weight: bold;
+  opacity: 1;
 }
