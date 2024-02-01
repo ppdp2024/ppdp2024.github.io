@@ -61,7 +61,7 @@ The PC chairs will be happy to advise on the appropriateness of a topic.
 
 PPDP will take place 9-11 September 2024 at the Politecnico di Milano, 
 Italy, co-located with the 34th Int'l Symp. on Logic-Based Program
-Synthesis and Transformation (LOPSTR 2024)
+Synthesis and Transformation ([LOPSTR 2024](https://lopstr.github.io/2024/))
 within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
 
 
