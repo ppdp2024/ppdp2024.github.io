@@ -177,3 +177,22 @@ Program committee chairs: Alessandro Bruni (IT-University of Copenhagen), Albert
 General chairs: Matteo Pradella & Matteo Rossi (Politecnico di Milano)
 
 Steering committee chair: James Cheney (Edinburgh University)
+
+Program committee
+-----------------
+- Małgorzata Biernacka
+- Roberto Casadei
+- Kaustuv Chaudhuri
+- Amy Felty
+- Marco Gavanelli
+- Paola Giannini
+- Wen Kokke
+- Cristina Matache
+- Marino Miculan
+- Carlos Olarte
+- Frank Pfenning
+- Paul Rowe
+- Anders Schlichtkrull
+- Gabriele Vanoni
+- Niccolò Veltri
+- Yannick Zakowski
