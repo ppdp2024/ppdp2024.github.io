@@ -152,12 +152,13 @@ Cristina	  Matache	University of Edinburgh
 Małgorzata Biernacka	University of Wroclaw
 Gabriele	  Vanoni		Università di Bologna and INRIA Sophia Antipolis
 Niccolò	  Veltri		Tallinn University of Technology	
-Marco	  Gavanelli	University of Ferrara
-Marino	  Miculan		University of Udine	
-Roberto	  Casadei		University of Bologna
+Marco	  Gavanelli	Università di Ferrara
+Marino	  Miculan		Università di Udine	
+Roberto	  Casadei		Università di Bologna
 Yannick	  Zakowski	Inria
-Carlos	  Olarte		LIPN, Université Sorbonne Paris Nord
+Carlos	  Olarte		Université Sorbonne Paris Nord
 Frank	  Pfenning	Carnegie Mellon University	
 Anders	  Schlichtkrull	Aalborg University
 Paola	  Giannini		Universita' del Piemonte Orientale	
 Wen	          Kokke		University of Strathclyde
+Paul		  Rowe		The MITRE Corporation

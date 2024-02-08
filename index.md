@@ -180,19 +180,19 @@ Steering committee chair: James Cheney (Edinburgh University)
 
 Program committee
 -----------------
-- Małgorzata Biernacka
-- Roberto Casadei
-- Kaustuv Chaudhuri
-- Amy Felty
-- Marco Gavanelli
-- Paola Giannini
-- Wen Kokke
-- Cristina Matache
-- Marino Miculan
-- Carlos Olarte
-- Frank Pfenning
-- Paul Rowe
-- Anders Schlichtkrull
-- Gabriele Vanoni
-- Niccolò Veltri
-- Yannick Zakowski
+- Małgorzata Biernacka, University of Wroclaw
+- Roberto Casadei, 	University of Bologna
+- Kaustuv Chaudhuri, INRIA
+- Amy Felty, University of Ottawa
+- Marco Gavanelli, University of Ferrara
+- Paola Giannini, 	Universita' del Piemonte Orientale	
+- Wen Kokke, University of Strathclyde
+- Cristina Matache, 	University of Edinburgh	
+- Marino Miculan, 	University of Udine	
+- Carlos Olarte,  Université Sorbonne Paris Nord
+- Frank Pfenning, Carnegie Mellon University	
+- Paul Rowe, The MITRE Corporation
+- Anders Schlichtkrull, Aalborg University
+- Gabriele Vanoni, Università di Bologna and INRIA Sophia Antipolis
+- Niccolò Veltri, 	Tallinn University of Technology
+- Yannick Zakowski, INRIA
