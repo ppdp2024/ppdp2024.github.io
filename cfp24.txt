@@ -136,8 +136,7 @@ rights (http://authors.acm.org/) which apply to final papers.
 Submitted papers should meet the requirements of ACM's plagiarism
 policy] http://www.acm.org/publications/policies/plagiarism_policy).
 
-The reviewing is single-blind. 
-
+The reviewing is single-blind, with a two-days rebuttal phase.
 
 PROGRAM CHAIRS
 
