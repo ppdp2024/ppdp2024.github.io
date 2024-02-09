@@ -196,3 +196,4 @@ Program committee
 - Gabriele Vanoni, Università di Bologna and INRIA Sophia Antipolis
 - Niccolò Veltri, 	Tallinn University of Technology
 - Yannick Zakowski, INRIA
+-  Xuejing Huang, University of Hong Kong

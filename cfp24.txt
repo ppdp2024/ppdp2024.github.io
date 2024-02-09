@@ -161,3 +161,4 @@ Anders	  Schlichtkrull	Aalborg University
 Paola	  Giannini		Universita' del Piemonte Orientale	
 Wen	          Kokke		University of Strathclyde
 Paul		  Rowe		The MITRE Corporation
+ Xuejing 	  Huang 	    	University of Hong Kong
