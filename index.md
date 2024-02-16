@@ -191,7 +191,7 @@ Program committee
 - Marino Miculan, 	University of Udine	
 - Carlos Olarte,  Université Sorbonne Paris Nord
 - Frank Pfenning, Carnegie Mellon University	
-- Paul Rowe, The MITRE Corporation
+- Paul Rowe, Two Six Technologies
 - Anders Schlichtkrull, Aalborg University
 - Gabriele Vanoni, Università di Bologna and INRIA Sophia Antipolis
 - Niccolò Veltri, 	Tallinn University of Technology

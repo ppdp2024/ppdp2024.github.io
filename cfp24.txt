@@ -1,5 +1,5 @@
 The 26th International Symposium on
-Principles and Practice of Declarative Programming,
+Principles and Practice of Declarative Programming
 
 Part of FM 2024 and co-located with LOPSTR 2024, FACS 2024, FMICS 2024,
 and TAP 2024.
