@@ -125,6 +125,12 @@ study extended versions or any material beyond the respective page
 limit. Material beyond the page limit will not be included in the
 final published version.
 
+Proceedings
+----------------------
+
+The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
+
+![Image Description](images/icps-logo-plain.jpg)
 Format of a submission
 ----------------------
 
@@ -197,3 +203,6 @@ Program committee
 - Niccolò Veltri, 	Tallinn University of Technology
 - Yannick Zakowski, INRIA
 -  Xuejing Huang, University of Hong Kong
+
+
+![Image Description](images/acm-small.jpeg) ![Image Description](images/siglog.jpeg) ![Image Description](images/sigplan-small.jpg)
