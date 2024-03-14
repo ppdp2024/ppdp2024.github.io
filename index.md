@@ -130,7 +130,8 @@ Proceedings
 
 The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
 
-![Image Description](images/icps-logo-plain.jpg)
+<img src="images/icps-logo-plain.jpg" alt="Image Description" width="300">
+
 Format of a submission
 ----------------------
 
