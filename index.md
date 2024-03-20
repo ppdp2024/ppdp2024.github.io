@@ -2,9 +2,6 @@
 title: PPDP 2024
 ---
 
-PPDP 2024 Call For Papers
-
-
 The 26th International Symposium on
 Principles and Practice of Declarative Programming, PPDP 2024
 

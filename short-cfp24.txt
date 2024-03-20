@@ -1,0 +1,59 @@
+The 26th International Symposium on
+Principles and Practice of Declarative Programming
+
+Part of FM 2024 and co-located with LOPSTR 2024, FACS 2024, FMICS
+2024, and TAP 2024.
+
+September 10-11, 2024,  Milan, Italy
+
+https://ppdp2024.github.io/
+
+Important dates:
+
+- Title and abstract registration: 06 May 2024 (AoE)
+- Paper submission: 13 May 2024 (AoE)
+- Rebuttal period (48 hours): 22-23 June 2024 (AoE)
+- Author notification: 3 July 2024
+- Final paper version: 24 July 2024
+
+The PPDP 2024 symposium brings together researchers from the
+declarative programming communities, including those working in the
+functional, logic, answer-set, and constraint handling programming
+paradigms. The goal is to stimulate research in the use of logical
+formalisms and methods for analyzing, performing, specifying, and
+reasoning about computations, including mechanisms for concurrency,
+security, static analysis, and verification.
+
+Submissions can be made in three categories:
+
+- Regular Research Papers,
+- System Descriptions, and
+- Experience Reports.
+
+The PPDP 2024 proceedings will published in the ACM Digital Library
+within the ACM International Conference Proceedings Series.
+
+Program Chairs
+
+Alessandro Bruni, IT-University of Copenhagen, Denmark,
+Alberto Momigliano, Università degli studi di Milano, Italy
+
+Program Committee Members
+
+Amy Felty		University of Ottawa
+Kaustuv Chaudhuri	INRIA
+Cristina Matache	University of Edinburgh	
+Małgorzata Biernacka	University of Wroclaw
+Gabriele Vanoni		Università di Bologna and INRIA Sophia Antipolis
+Niccolò Veltri		Tallinn University of Technology	
+Marco Gavanelli		Università di Ferrara
+Marino Miculan		Università di Udine	
+Roberto Casadei		Università di Bologna
+Yannick Zakowski	Inria
+Carlos Olarte		Université Sorbonne Paris Nord
+Frank Pfenning		Carnegie Mellon University	
+Anders Schlichtkrull	Aalborg University
+Paola Giannini		Universita' del Piemonte Orientale	
+Wen Kokke		University of Strathclyde
+Paul Rowe		The MITRE Corporation
+Xuejing Huang 	    	University of Hong Kong
