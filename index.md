@@ -156,11 +156,13 @@ paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
 
 Review process
+
 ----------------------------------
 The reviewing is single-blind, with a two-days rebuttal phase.
 
 Important dates
 -------------------------------- 
+
 Title and abstract registration: 06 May 2024 (AoE)
 
 Paper submission: 13 May 2024 (AoE)
@@ -173,9 +175,9 @@ Final paper version: 24 July 2024
 
 Conference: 9-11 Sept 2024
 
-
 Organization
 ------------
+
 Program committee chairs: Alessandro Bruni (IT-University of Copenhagen), Alberto Momigliano (Università degli Studi di Milano)
 
 General chairs: Matteo Pradella & Matteo Rossi (Politecnico di Milano)
@@ -184,23 +186,24 @@ Steering committee chair: James Cheney (Edinburgh University)
 
 Program committee
 -----------------
+
 - Małgorzata Biernacka, University of Wroclaw
-- Roberto Casadei, 	University of Bologna
+- Roberto Casadei,  University of Bologna
 - Kaustuv Chaudhuri, INRIA
 - Amy Felty, University of Ottawa
 - Marco Gavanelli, University of Ferrara
-- Paola Giannini, 	Universita' del Piemonte Orientale	
+- Paola Giannini,  Universita' del Piemonte Orientale
 - Wen Kokke, University of Strathclyde
-- Cristina Matache, 	University of Edinburgh	
-- Marino Miculan, 	University of Udine	
+- Cristina Matache,  University of Edinburgh
+- Marino Miculan, University of Udine
 - Carlos Olarte,  Université Sorbonne Paris Nord
-- Frank Pfenning, Carnegie Mellon University	
+- Frank Pfenning, Carnegie Mellon University
 - Paul Rowe, Two Six Technologies
 - Anders Schlichtkrull, Aalborg University
 - Gabriele Vanoni, Università di Bologna and INRIA Sophia Antipolis
-- Niccolò Veltri, 	Tallinn University of Technology
+- Niccolò Veltri, Tallinn University of Technology
 - Yannick Zakowski, INRIA
--  Xuejing Huang, University of Hong Kong
+- Xuejing Huang, University of Hong Kong
 
 
 ![Image Description](images/acm-small.jpeg) ![Image Description](images/siglog.jpeg) ![Image Description](images/sigplan-small.jpg)

@@ -6,7 +6,7 @@
 
 .page-header {
   background-image: url('/assets/media/milano1.jpg');
-  background-size: cover;
+  background-size: 66.67% auto; // Adjusted background-size property
   height: 80vh;
   display: flex;
   flex-flow: column;
