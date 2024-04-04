@@ -129,6 +129,24 @@ The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will published in the ACM Dig
 
 <img src="images/icps-logo-plain.jpg" alt="Image Description" width="300">
 
+Important note to authors about the new ACM open access publishing model
+--------------------
+
+ACM has introduced a new open access publishing model for the
+International Conference Proceedings Series (ICPS). Authors based at
+institutions that are not yet part of the ACM Open program and do not
+qualify for a waiver will be required to pay an article processing
+charge (APC) to publish their ICPS article in the ACM Digital
+Library. To determine whether or not an APC will be applicable to your
+article, please follow the detailed guidance [here](https://www.acm.org/publications/icps/author-guidance).
+
+
+Further information may be found on the ACM website, as follows:
+- Full details of the new [ICPS publishing model](https://www.acm.org/publications/icps/faq)
+- Full details of the [ACM Open program](https://www.acm.org/publications/openaccess). Please direct all questions about the new model [here](mailto:icps-info@acm.org).
+
+
+
 Format of a submission
 ----------------------
 
