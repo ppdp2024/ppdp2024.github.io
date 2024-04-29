@@ -15,7 +15,7 @@ Important dates:
 - Title and abstract registration: 06 May 2024 (AoE)
 - Paper submission: 13 May 2024 (AoE)
 - Rebuttal period (48 hours): 22-23 June 2024 (AoE)
-- Author notification: 3 July 2024
+- Author notification: 03 July 2024
 - Final paper version: 24 July 2024
 
 The PPDP 2024 symposium brings together researchers from the
@@ -32,12 +32,9 @@ Submissions can be made in three categories:
 - System Descriptions, and
 - Experience Reports.
 
-The PPDP 2024 proceedings will published in the ACM Digital Library
-within the ACM International Conference Proceedings Series.
-
 Program Chairs
 
-Alessandro Bruni, IT-University of Copenhagen, Denmark,
+Alessandro Bruni, IT-University of Copenhagen, Denmark
 Alberto Momigliano, Università degli studi di Milano, Italy
 
 Program Committee Members
@@ -61,9 +58,10 @@ Paul Rowe		The MITRE Corporation
 Xuejing Huang 	    	University of Hong Kong
 
 
-Important note to ACM has introduced a new open access publishing
-model for the International Conference Proceedings Series
-(ICPS). Authors based at institutions that are not yet part of the ACM
-Open program and do not qualify for a waiver will be required to pay
-an article processing charge (APC) to publish their ICPS article in
-the ACM Digital Library. 
+The PPDP 2024 proceedings will published in the ACM Digital Library
+within the ACM International Conference Proceedings Series. Note that
+ACM has introduced a new open access publishing model for the
+International Conference Proceedings Series (ICPS). Authors based at
+institutions that are not yet part of the ACM Open program and do not
+qualify for a waiver will be required to pay an article processing
+charge (APC) to publish their ICPS article in the ACM Digital Library.
