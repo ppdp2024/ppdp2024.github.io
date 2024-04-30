@@ -11,6 +11,13 @@ Milano, Italy.
 
 **Abstract deadline: 06 May; paper deadline: 13 May.**
 
+
+News
+-------
+
+- Ilaria Castellani (INRIA) will be our invited speaker
+- Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series. 
+
 Scope
 -----
 
