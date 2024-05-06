@@ -9,7 +9,7 @@ Principles and Practice of Declarative Programming, PPDP 2024
 Co-located with FM 2024, held 9-11 September 2024 at the Politecnico di
 Milano, Italy.
 
-**Abstract deadline: 06 May; paper deadline: 13 May.**
+**New Abstract deadline: 15 May; paper deadline: 22 May.**
 
 
 News
