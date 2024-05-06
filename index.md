@@ -72,7 +72,7 @@ within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
 Submission 
 ---------------
 
-Via Easychair at this [link](https://easychair.org/conferences/?conf=ppdp24)
+Via EasyChair at this [link](https://easychair.org/conferences/?conf=ppdp24)
 
 Submission Categories
 ---------------------
@@ -192,13 +192,13 @@ The reviewing is single-blind, with a two-days rebuttal phase.
 Important dates
 -------------------------------- 
 
-Title and abstract registration: 06 May 2024 (AoE)
+Title and abstract registration: ~~06~~ 15 May 2024 (AoE)
 
-Paper submission: 13 May 2024 (AoE)
+Paper submission: ~~13~~ 22 May 2024  (AoE)
 
-Rebuttal period (48 hours): 22-23 June 2024 (AoE)
+Rebuttal period (48 hours): ~~22-23~~ 28-29 June 2024 (AoE)
 
-Author notification: 3 July 2024
+Author notification: ~~3~~ 5 July 2024
 
 Final paper version: 24 July 2024
 
