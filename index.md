@@ -69,6 +69,11 @@ Synthesis and Transformation ([LOPSTR 2024](https://lopstr.github.io/2024/))
 within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
 
 
+Submission 
+---------------
+
+Via Easychair at this [link](https://easychair.org/conferences/?conf=ppdp24)
+
 Submission Categories
 ---------------------
 
@@ -181,7 +186,6 @@ paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
 
 Review process
-
 ----------------------------------
 The reviewing is single-blind, with a two-days rebuttal phase.
 
