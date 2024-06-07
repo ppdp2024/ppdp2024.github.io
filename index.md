@@ -5,18 +5,18 @@ title: PPDP 2024
 The 26th International Symposium on
 Principles and Practice of Declarative Programming, PPDP 2024
 
-
-Co-located with FM 2024, held 9-11 September 2024 at the Politecnico di
+Co-located with FM 2024, held 10-11 September 2024 at the Politecnico di
 Milano, Italy.
-
-**New Abstract deadline: 15 May; paper deadline: 22 May.**
-
 
 News
 -------
 
-- Ilaria Castellani (INRIA) will be our invited speaker
-- Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series. 
+- The paper "On the Preciseness of Subtyping in Session Types" by
+Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen by the Steering Committee
+to receive the "10 Year Most Influential Paper Award".  Mariangiola will give the
+related invited talk.
+- Ilaria Castellani (INRIA) will be our invited speaker.
+- Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series.
 
 Scope
 -----
