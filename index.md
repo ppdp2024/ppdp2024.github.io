@@ -11,11 +11,12 @@ Milano, Italy.
 News
 -------
 
+- [Ningning Xie](https://xnning.github.io) (University of Toronto and Google DeepMind) will be our joint LOPSTR/PPDP (and FM keynote) speaker.
 - The paper "On the Preciseness of Subtyping in Session Types" by
 Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen by the Steering Committee
 to receive the "10 Year Most Influential Paper Award".  Mariangiola will give the
 related invited talk.
-- Ilaria Castellani (INRIA) will be our invited speaker.
+- [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
 - Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series.
 
 Scope
