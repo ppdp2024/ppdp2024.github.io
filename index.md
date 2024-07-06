@@ -22,7 +22,7 @@ related invited talk.
 Accepted papers
 -----------
 
-| Authors                                               | Title                                                                                      |
+|                                                |                                                                                       |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Davide Fissore and Enrico Tassi                       | Higher-Order unification for free!                                                         |
 | Francesco Dagnino and Luca Padovani                   | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions                     |
@@ -108,6 +108,7 @@ Submissions can be made in three categories:
 - Regular Research Papers,
 - System Descriptions, and
 - Experience Reports.
+
 <!-- 
 Submissions of Research Papers must present original research which is
 unpublished and not submitted elsewhere. They must not exceed 12 pages
@@ -210,12 +211,14 @@ attend and present the work at the conference. The PC chair may
 retract a paper that is not presented. The PC chair may also retract a
 paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
+
 <!---
 Review process
 ----------------------------------
 
 The reviewing is single-blind, with a two-days rebuttal phase.
 -->
+
 Important dates
 -------------------------------- 
 
