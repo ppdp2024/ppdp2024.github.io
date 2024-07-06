@@ -19,6 +19,29 @@ related invited talk.
 - [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
 - Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series.
 
+Accepted papers
+-----------
+
+| Authors                                               | Title                                                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Davide Fissore and Enrico Tassi                       | Higher-Order unification for free!                                                         |
+| Francesco Dagnino and Luca Padovani                   | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions                     |
+| Roberto Casadei and Mirko Viroli                      | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
+| Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña | NuITP: An Inductive Theorem Prover for Equational Program Verification                |
+| Francisco Durán, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott | Programming Open Distributed Systems in Maude |
+| Maribel Fernandez and Ian Mackie                      | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language                |
+| Ugo Dal Lago and Luca Padovani                        | On the Almost-Sure Termination of Binary Sessions                                           |
+| Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
+| José Espírito Santo and Filipa Mendes                 | The logical essence of call-by-name CPS translations                                         |
+| Zhengpu Shi and Gang Chen                             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
+| Naoki Yamamoto and Kazunori Ueda                      | Grammar-based Pattern Matching and Type Checking for Difference Data Structures              |
+| Ian Kretz, Paul Rowe, Clare Parran, and John Ramsdell | Evidence Tampering and Chain of Custody in Layered Attestations                               |
+| Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de'Liguoro | Un-projectable Global Types for Multiparty Sessions |
+| Christian Skalka and Joseph Near                      | Language-Based Security for Low-Level MPC                                                   |
+| Cosimo Laneve                                         | Reachability Analysis in Micro-Stipula                                                       |
+| Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
+| Exequiel Rivas and Tarmo Uustalu                      | Concurrent monads for shared state                                                          |
+
 Scope
 -----
 
@@ -64,7 +87,7 @@ education.
 
 The PC chairs will be happy to advise on the appropriateness of a topic.
 
-PPDP will take place 9-11 September 2024 at the Politecnico di Milano, 
+PPDP will take place 10-11 September 2024 at the Politecnico di Milano, 
 Italy, co-located with the 34th Int'l Symp. on Logic-Based Program
 Synthesis and Transformation ([LOPSTR 2024](https://lopstr.github.io/2024/))
 within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
