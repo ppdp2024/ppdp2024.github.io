@@ -17,7 +17,7 @@ Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen
 to receive the "10 Year Most Influential Paper Award".  Mariangiola will give the
 related invited talk.
 - [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
-- Proceedings will published in the ACM DL within the ACM International Conference Proceedings Series.
+- Proceedings will be published in the ACM DL within the ACM International Conference Proceedings Series.
 
 Accepted papers
 -----------
@@ -84,19 +84,21 @@ theorem provers; certification; novel applications of declarative
 programming inside and outside of CS; declarative programming
 pearls; practical experience reports and industrial application;
 education.
-
+<!---
 The PC chairs will be happy to advise on the appropriateness of a topic.
-
+-->
 PPDP will take place 10-11 September 2024 at the Politecnico di Milano, 
 Italy, co-located with the 34th Int'l Symp. on Logic-Based Program
 Synthesis and Transformation ([LOPSTR 2024](https://lopstr.github.io/2024/))
 within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
 
 
+<!-- 
 Submission 
 ---------------
 
 Via EasyChair at this [link](https://easychair.org/conferences/?conf=ppdp24)
+-->
 
 Submission Categories
 ---------------------
@@ -106,7 +108,7 @@ Submissions can be made in three categories:
 - Regular Research Papers,
 - System Descriptions, and
 - Experience Reports.
-
+<!-- 
 Submissions of Research Papers must present original research which is
 unpublished and not submitted elsewhere. They must not exceed 12 pages
 ACM style 2-column (including figures, but excluding bibliography).
@@ -157,11 +159,11 @@ beyond the above-mentioned page limits. Reviewers are not required to
 study extended versions or any material beyond the respective page
 limit. Material beyond the page limit will not be included in the
 final published version.
-
+-->
 Proceedings
 ----------------------
 
-The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
+The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will be published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
 
 <img src="images/icps-logo-plain.jpg" alt="Image Description" width="300">
 
@@ -178,9 +180,9 @@ article, please follow the detailed guidance [here](https://www.acm.org/publicat
 
 
 Further information may be found on the ACM website, as follows:
+
 - Full details of the new [ICPS publishing model](https://www.acm.org/publications/icps/faq)
 - Full details of the [ACM Open program](https://www.acm.org/publications/openaccess). Please direct all questions about the new model [here](mailto:icps-info@acm.org).
-
 
 
 Format of a submission
@@ -208,11 +210,12 @@ attend and present the work at the conference. The PC chair may
 retract a paper that is not presented. The PC chair may also retract a
 paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
-
+<!---
 Review process
 ----------------------------------
-The reviewing is single-blind, with a two-days rebuttal phase.
 
+The reviewing is single-blind, with a two-days rebuttal phase.
+-->
 Important dates
 -------------------------------- 
 
@@ -226,7 +229,7 @@ Author notification: ~~3 July 2024~~ 5 July 2024
 
 Final paper version: 24 July 2024
 
-Conference: 9-11 Sept 2024
+Conference: 10-11 Sept 2024
 
 Organization
 ------------
