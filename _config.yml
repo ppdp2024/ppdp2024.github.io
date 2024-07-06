@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   26th International Symposium on
   Principles and Practice of Declarative Programming
   <br/>
-  9-11 September 2024
+  10-11 September 2024
   <br/>
   Politecnico di Milano, Italy.
 baseurl: "" # the subpath of your site, e.g. /blog
