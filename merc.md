@@ -19,5 +19,5 @@
 | 15:30 - 16:00  | Coffee Break |
 | 16:00 - 16:30  | Un-projectable Global Types for Multiparty Sessions |
 | 16:30 - 17:00  | Concurrent monads for shared state |
-| 17:00 - 17:30  | Talk 8 |
+| 17:00 - 17:30  | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
 
