@@ -11,6 +11,7 @@ Milano, Italy.
 News
 -------
 
+- Early registration is now open (until July 30th). Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
 - [Ningning Xie](https://xnning.github.io) (University of Toronto and Google DeepMind) will be our joint LOPSTR/PPDP (and FM keynote) speaker.
 - The paper "On the Preciseness of Subtyping in Session Types" by
 Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen by the Steering Committee
