@@ -6,7 +6,7 @@
 | 09:30 - 10:00   | Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk                | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
 | 10:00 - 10:30   | Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña                      | NuITP: An Inductive Theorem Prover for Equational Program Verification |
 | 10:30 - 11:00   |                                  | Coffee Break                                                          |
-| 11:00 - 12:00   | Ilaria Castellani                | _PPDP Invited Talk_: TBA TBA                           |
+| 11:00 - 12:00   | Ilaria Castellani                | _PPDP Invited Talk_: A simple view of multiparty session types                           |
 | 12:00 - 12:30   | Francesco Dagnino and Luca Padovani                  | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions|
 | 12:30 - 14:00   |                                  | Lunch Break                                                           |
 | 14:00 - 15:00   | Mariangiola Dezani-Ciancaglini   | _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types |

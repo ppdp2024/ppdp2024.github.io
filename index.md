@@ -162,6 +162,7 @@ study extended versions or any material beyond the respective page
 limit. Material beyond the page limit will not be included in the
 final published version.
 -->
+
 Proceedings
 ----------------------
 
@@ -193,7 +194,7 @@ Format of a submission
 For each paper category, you must use the most recent version of the
 [Current ACM Master
 Template](https://www.acm.org/publications/proceedings-template), 
- at the time of writing being 2.01. You must use the
+ at the time of writing being 2.08. You must use the
 LaTeX sigconf proceedings template, as the conference organizers are
 unable to process final submissions in other formats. In case of
 problems with the templates, contact [ACM's TeX support team at
