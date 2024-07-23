@@ -18,8 +18,51 @@ Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen
 to receive the "10 Year Most Influential Paper Award".  Mariangiola will give the
 related invited talk.
 - [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
-- Proceedings will be published in the ACM DL within the ACM International Conference Proceedings Series.
+- Proceedings are published in the ACM DL within the ACM International Conference Proceedings Series.
 
+# Tentative Program
+
+Tuesday
+ ----------------
+
+| Time            | Authors                          | Paper                                                                 |
+|-----------------|----------------------------------|-----------------------------------------------------------------------|
+| 09:00 - 10:30   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
+| 10:30 - 11:00   |                                  | Coffee Break                                                          |
+| 11:00 - 11:30   | Davide Fissore and Enrico Tassi                      | Higher-Order unification for free!                                    |
+| 11:30 - 12:00   | José Espírito Santo and Filipa Mendes                     | The logical essence of call-by-name CPS translations                  |
+| 12:00 - 12:30   | Maribel Fernandez and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
+| 12:30 - 14:00   |                                  | Lunch Break                                                           |
+| 14:00 - 14:30   | Zhengpu Shi and Gang Chen             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
+| 14:30 - 15:00   | Naoki Yamamoto and Kazunori Ueda           | Grammar-based Pattern Matching and Type Checking for Difference Data Structures |
+| 15:00 - 15:30   | Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina                | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
+| 15:30 - 16:00   |                                  | Coffee Break                                                          |
+| 16:00 - 16:30   | Ian Kretz, Paul Rowe, Clare Parran, and John Ramsdell                 | Evidence Tampering and Chain of Custody in Layered Attestations       |
+| 16:30 - 17:00   | Christian Skalka and Joseph Near                      | Language-Based Security for Low-Level MPC                             |
+| 17:00 - 17:30   |  Cosimo Laneve                        | Reachability Analysis in Micro-Stipula                                |
+
+Wednesday
+------
+
+| Time            | Authors                          | Paper                                                                 |
+|-----------------|----------------------------------|-----------------------------------------------------------------------|
+| 09:00 - 09:30   | Francisco Durán, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott                         | Programming Open Distributed Systems in Maude                         |
+| 09:30 - 10:00   | Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk                | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
+| 10:00 - 10:30   | Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña                      | NuITP: An Inductive Theorem Prover for Equational Program Verification |
+| 10:30 - 11:00   |                                  | Coffee Break                                                          |
+| 11:00 - 12:00   | Ilaria Castellani                | _PPDP Invited Talk_: A simple view of multiparty session types                           |
+| 12:00 - 12:30   | Francesco Dagnino and Luca Padovani                  | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions|
+| 12:30 - 14:00   |                                  | Lunch Break                                                           |
+| 14:00 - 15:00   | Mariangiola Dezani-Ciancaglini   | _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types |
+| 15:00 - 15:30   | Ugo Dal Lago and Luca Padovani                        | On the Almost-Sure Termination of Binary Sessions                     |
+| 15:30 - 16:00   |                                  | Coffee Break                                                          |
+| 16:00 - 16:30   | Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro                      | Un-projectable Global Types for Multiparty Sessions                   |
+| 16:30 - 17:00   | Exequiel Rivas and Tarmo Uustalu               | Concurrent monads for shared state                                    |
+| 17:00 - 17:30   | Roberto Casadei and Mirko Viroli                     | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
+
+
+
+<!-- 
 Accepted papers
 -----------
 
@@ -42,6 +85,7 @@ Accepted papers
 | Cosimo Laneve                                         | Reachability Analysis in Micro-Stipula                                                       |
 | Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
 | Exequiel Rivas and Tarmo Uustalu                      | Concurrent monads for shared state                                                          |
+-->
 
 Scope
 -----
@@ -166,7 +210,7 @@ final published version.
 Proceedings
 ----------------------
 
-The PPDP 2024 proceedings, ISBN 979-8-4007-0969-2, will be published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
+The PPDP 2024 proceedings, ISBN 9-8-4007-0969-297, will be published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
 
 <img src="images/icps-logo-plain.jpg" alt="Image Description" width="300">
 
