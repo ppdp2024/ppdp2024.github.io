@@ -29,7 +29,7 @@ Tuesday
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
 | 09:00 - 10:30   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
 | 10:30 - 11:00   |                                  | Coffee Break                                                          |
-| 11:00 - 11:30   | Davide Fissore and Enrico Tassi                      | Higher-Order unification for free!                                    |
+| 11:00 - 11:30   | **Davide Fissore** and Enrico Tassi                      | Higher-Order unification for free!                                    |
 | 11:30 - 12:00   | José Espírito Santo and Filipa Mendes                     | The logical essence of call-by-name CPS translations                  |
 | 12:00 - 12:30   | Maribel Fernandez and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
 | 12:30 - 14:00   |                                  | Lunch Break                                                           |
@@ -37,9 +37,9 @@ Tuesday
 | 14:30 - 15:00   | Naoki Yamamoto and Kazunori Ueda           | Grammar-based Pattern Matching and Type Checking for Difference Data Structures |
 | 15:00 - 15:30   | Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina                | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
 | 15:30 - 16:00   |                                  | Coffee Break                                                          |
-| 16:00 - 16:30   | Ian Kretz, Paul Rowe, Clare Parran, and John Ramsdell                 | Evidence Tampering and Chain of Custody in Layered Attestations       |
-| 16:30 - 17:00   | Christian Skalka and Joseph Near                      | Language-Based Security for Low-Level MPC                             |
-| 17:00 - 17:30   |  Cosimo Laneve                        | Reachability Analysis in Micro-Stipula                                |
+| 16:00 - 16:30   | **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell                 | Evidence Tampering and Chain of Custody in Layered Attestations       |
+| 16:30 - 17:00   | **Christian Skalka** and Joseph Near                      | Language-Based Security for Low-Level MPC                             |
+| 17:00 - 17:30   |  **Cosimo Laneve**                        | Reachability Analysis in Micro-Stipula                                |
 
 Wednesday
 ------
@@ -56,8 +56,8 @@ Wednesday
 | 14:00 - 15:00   | Mariangiola Dezani-Ciancaglini   | _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types |
 | 15:00 - 15:30   | Ugo Dal Lago and Luca Padovani                        | On the Almost-Sure Termination of Binary Sessions                     |
 | 15:30 - 16:00   |                                  | Coffee Break                                                          |
-| 16:00 - 16:30   | Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro                      | Un-projectable Global Types for Multiparty Sessions                   |
-| 16:30 - 17:00   | Exequiel Rivas and Tarmo Uustalu               | Concurrent monads for shared state                                    |
+| 16:00 - 16:30   | **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro                      | Un-projectable Global Types for Multiparty Sessions                   |
+| 16:30 - 17:00   | Exequiel Rivas and **Tarmo Uustalu**               | Concurrent monads for shared state                                    |
 | 17:00 - 17:30   | Roberto Casadei and Mirko Viroli                     | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
 
 
@@ -79,8 +79,8 @@ Accepted papers
 | José Espírito Santo and Filipa Mendes                 | The logical essence of call-by-name CPS translations                                         |
 | Zhengpu Shi and Gang Chen                             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
 | Naoki Yamamoto and Kazunori Ueda                      | Grammar-based Pattern Matching and Type Checking for Difference Data Structures              |
-| Ian Kretz, Paul Rowe, Clare Parran, and John Ramsdell | Evidence Tampering and Chain of Custody in Layered Attestations                               |
-| Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de'Liguoro | Un-projectable Global Types for Multiparty Sessions |
+| **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell | Evidence Tampering and Chain of Custody in Layered Attestations                               |
+| **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de'Liguoro | Un-projectable Global Types for Multiparty Sessions |
 | Christian Skalka and Joseph Near                      | Language-Based Security for Low-Level MPC                                                   |
 | Cosimo Laneve                                         | Reachability Analysis in Micro-Stipula                                                       |
 | Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
