@@ -11,7 +11,7 @@ Milano, Italy.
 News
 -------
 
-- Early registration is now open (until July 30th). Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
+- Registration is still open. Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
 - [Ningning Xie](https://xnning.github.io) (University of Toronto and Google DeepMind) will be our joint LOPSTR/PPDP (and FM keynote) speaker.
 - The paper "On the Preciseness of Subtyping in Session Types" by
 Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen by the Steering Committee
@@ -20,7 +20,7 @@ related invited talk.
 - [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
 - Proceedings are published in the ACM DL within the ACM International Conference Proceedings Series.
 
-# Tentative Program
+# Program
 
 Tuesday
 ----------------
@@ -30,8 +30,8 @@ Tuesday
 | 09:00 - 10:30   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
 | 10:30 - 11:00   |                                  | Coffee Break                                                          |
 | 11:00 - 11:30   | **Davide Fissore** and Enrico Tassi                      | Higher-Order unification for free!                                    |
-| 11:30 - 12:00   | José Espírito Santo and Filipa Mendes                     | The logical essence of call-by-name CPS translations                  |
-| 12:00 - 12:30   | Maribel Fernandez and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
+| 11:30 - 12:00   | José Espírito Santo and **Filipa Mendes**                     | The logical essence of call-by-name CPS translations                  |
+| 12:00 - 12:30   | **Maribel Fernandez** and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
 | 12:30 - 14:00   |                                  | Lunch Break                                                           |
 | 14:00 - 14:30   | Zhengpu Shi and Gang Chen             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
 | 14:30 - 15:00   | Naoki Yamamoto and Kazunori Ueda           | Grammar-based Pattern Matching and Type Checking for Difference Data Structures |
@@ -46,12 +46,12 @@ Wednesday
 
 | Time            | Authors                          | Paper                                                                 |
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
-| 09:00 - 09:30   | Francisco Durán, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott                         | Programming Open Distributed Systems in Maude                         |
+| 09:00 - 09:30   | **Francisco Durán**, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott                         | Programming Open Distributed Systems in Maude                         |
 | 09:30 - 10:00   | Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk                | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
-| 10:00 - 10:30   | Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña                      | NuITP: An Inductive Theorem Prover for Equational Program Verification |
+| 10:00 - 10:30   | Francisco Durán, **Santiago Escobar**, Jose Meseguer, and Julia Sapiña                      | NuITP: An Inductive Theorem Prover for Equational Program Verification |
 | 10:30 - 11:00   |                                  | Coffee Break                                                          |
 | 11:00 - 12:00   | Ilaria Castellani                | _PPDP Invited Talk_: A simple view of multiparty session types                           |
-| 12:00 - 12:30   | Francesco Dagnino and Luca Padovani                  | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions|
+| 12:00 - 12:30   | **Francesco Dagnino** and Luca Padovani                  | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions|
 | 12:30 - 14:00   |                                  | Lunch Break                                                           |
 | 14:00 - 15:00   | Mariangiola Dezani-Ciancaglini   | _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types |
 | 15:00 - 15:30   | Ugo Dal Lago and Luca Padovani                        | On the Almost-Sure Termination of Binary Sessions                     |
