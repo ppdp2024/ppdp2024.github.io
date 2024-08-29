@@ -27,8 +27,8 @@ Tuesday
 
 | Time            | Authors                          | Paper                                                                 |
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
-| 09:00 - 10:30   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
-| 10:30 - 11:00   |                                  | Coffee Break                                                          |
+| 09:00 - 10:20   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
+| 10:20 - 11:00   |                                  | Coffee Break                                                          |
 | 11:00 - 11:30   | **Davide Fissore** and Enrico Tassi                      | Higher-Order unification for free!                                    |
 | 11:30 - 12:00   | José Espírito Santo and **Filipa Mendes**                     | The logical essence of call-by-name CPS translations                  |
 | 12:00 - 12:30   | **Maribel Fernandez** and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
