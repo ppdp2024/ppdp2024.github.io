@@ -11,20 +11,90 @@ Milano, Italy.
 News
 -------
 
-- Registration is still open. Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
-- [Ningning Xie](https://xnning.github.io) (University of Toronto and Google DeepMind) will be our joint LOPSTR/PPDP (and FM keynote) speaker.
+- Proceedings have been  [published](https://dl.acm.org/doi/proceedings/10.1145/3678232) in the ACM DL within the ACM International Conference Proceedings Series.
+- The [program](#program) has been finalized.
+- [Ningning Xie](https://xnning.github.io) (University of Toronto and Google DeepMind) is our joint LOPSTR/PPDP (and FM keynote) speaker.
 - The paper "On the Preciseness of Subtyping in Session Types" by
 Tzu-Chun Chen, Mariangiola Dezani-Ciancaglini and Nobuko Yoshida has been chosen by the Steering Committee
 to receive the "10 Year Most Influential Paper Award".  Mariangiola will give the
 related invited talk.
-- [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) will be PPDP's invited speaker.
-- Proceedings are published in the ACM DL within the ACM International Conference Proceedings Series.
+- [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani) (INRIA) is PPDP's invited speaker.
 
-# Program
+- Registration is still open. Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
 
-Tuesday
+## Program
+
+All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=45&jaf_currentWFID=main)
+
+### Tuesday
 ----------------
 
+**Session 1: Opening and Keynote**
+09:00 - 10:20 Room [O. De Donato](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=4513&jaf_currentWFID=main)
+**Chair:** Alberto Momigliano
+
+**Speaker:** Ningning Xie
+**Talk:** Safe and Easy Compile-Time Generative Programming
+
+##### 10:20 - 11:00 Coffee Break
+
+**Session 2**
+11:00 - 12:30
+**Chair:** Tarmo Uustalu
+
+**11:00 - 11:30**
+**Authors:** **Davide Fissore** and Enrico Tassi
+**Paper:** Higher-Order unification for free!
+
+**11:30 - 12:00**
+**Authors:** José Espírito Santo and **Filipa Mendes**
+**Paper:** The logical essence of call-by-name CPS translations
+
+**12:00 - 12:30**
+**Authors:** **Maribel Fernandez** and Ian Mackie
+**Paper:** Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language
+
+---
+##### 12:30 - 14:00 Lunch Break
+
+---
+
+**Session 3**
+14:00 - 15:30
+**Chair:** TBA
+
+**14:00 - 14:30**
+**Authors:** **Zhengpu Shi** and Gang Chen
+**Paper:** Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination
+
+**14:30 - 15:00**
+**Authors:** **Naoki Yamamoto** and Kazunori Ueda
+**Paper:** Grammar-based Pattern Matching and Type Checking for Difference Data Structures
+
+**15:00 - 15:30**
+**Authors:** Luca Laboccetta, **Elena Mastria**, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina
+**Paper:** Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events
+
+##### 15:30 - 16:00 Coffee Break
+
+**Session 4**
+16:00 - 17:30
+**Chair:** Carlos Olarte
+
+**16:00 - 16:30**
+**Authors:** **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell
+**Paper:** Evidence Tampering and Chain of Custody in Layered Attestations
+
+**16:30 - 17:00**
+**Authors:** **Christian Skalka** and Joseph Near
+**Paper:** Language-Based Security for Low-Level MPC
+
+**17:00 - 17:30**
+**Authors:** **Cosimo Laneve**
+**Paper:** Reachability Analysis in Micro-Stipula
+
+#### 19:00 	FM24 RECEPTION BUFFET
+<!-- 
 | Time            | Authors                          | Paper                                                                 |
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
 | 09:00 - 10:20   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
@@ -40,10 +110,81 @@ Tuesday
 | 16:00 - 16:30   | **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell                 | Evidence Tampering and Chain of Custody in Layered Attestations       |
 | 16:30 - 17:00   | **Christian Skalka** and Joseph Near                      | Language-Based Security for Low-Level MPC                             |
 | 17:00 - 17:30   |  **Cosimo Laneve**                        | Reachability Analysis in Micro-Stipula                                |
+-->
+---
 
-Wednesday
-------
+### Wednesday
 
+
+**Session 5**
+09:00 - 10:30
+**Chair:** Maribel Fernandez
+
+**09:00 - 09:30**
+**Authors:** **Francisco Durán**, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott
+**Paper:** Programming Open Distributed Systems in Maude
+
+**09:30 - 10:00**
+**Authors:** Jaime Arias, **Carlos Olarte**, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk
+**Paper:** Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic
+
+**10:00 - 10:30**
+**Authors:** Francisco Durán, **Santiago Escobar**, Jose Meseguer, and Julia Sapiña
+**Paper:** NuITP: An Inductive Theorem Prover for Equational Program Verification
+
+#### 10:30 - 11:00 Coffee Break
+
+**Session 6**
+11:00 - 12:30
+**Chair:** Mariangiola Dezani-Ciancaglini
+
+**11:00 - 12:00**
+**Speaker:** Ilaria Castellani
+**Talk:** _PPDP Invited Talk_: A simple view of multiparty session types
+
+**12:00 - 12:30**
+ **Authors:** **Francesco Dagnino** and Luca Padovani
+**Paper:** sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions
+
+---
+##### 12:30 - 14:00 Lunch Break
+
+---
+
+**Session 7**
+14:00 - 15:30
+**Chair:** Franco Barbanera
+
+**14:00 - 15:00**
+**Speaker:** Mariangiola Dezani-Ciancaglini
+**Talk:** _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types
+
+**15:00 - 15:30**
+**Authors:** Ugo Dal Lago and **Luca Padovani**
+**Paper:** On the Almost-Sure Termination of Binary Sessions
+
+#### 15:30 - 16:00 Coffee Break
+
+**Session 8**
+16:00 - 17:30
+**Chair:** Luca Padovani
+
+**16:00 - 16:30**
+**Authors:** **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro
+**Paper:** Un-projectable Global Types for Multiparty Sessions
+
+**16:30 - 17:00**
+**Authors:** Exequiel Rivas and **Tarmo Uustalu**
+**Paper:** Concurrent Monads for Shared State
+
+**17:00 - 17:30**
+**Authors:** **Roberto Casadei** and Mirko Viroli
+**Paper:** Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report
+
+#### 17:30 Closing
+---
+
+<!-- 
 | Time            | Authors                          | Paper                                                                 |
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
 | 09:00 - 09:30   | **Francisco Durán**, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott                         | Programming Open Distributed Systems in Maude                         |
@@ -60,9 +201,6 @@ Wednesday
 | 16:30 - 17:00   | Exequiel Rivas and **Tarmo Uustalu**               | Concurrent monads for shared state                                    |
 | 17:00 - 17:30   | **Roberto Casadei** and Mirko Viroli                     | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
 
-
-
-<!-- 
 Accepted papers
 -----------
 
@@ -132,11 +270,10 @@ education.
 <!---
 The PC chairs will be happy to advise on the appropriateness of a topic.
 -->
-PPDP will take place 10-11 September 2024 at the Politecnico di Milano, 
+PPDP will take place 10-11 September 2024 at the Politecnico di Milano,
 Italy, co-located with the 34th Int'l Symp. on Logic-Based Program
 Synthesis and Transformation ([LOPSTR 2024](https://lopstr.github.io/2024/))
 within the umbrella of [FM 2024](https://www.fm24.polimi.it/)
-
 
 <!-- 
 Submission 
@@ -210,7 +347,7 @@ final published version.
 Proceedings
 ----------------------
 
-The PPDP 2024 proceedings, ISBN 9-8-4007-0969-297, will be published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
+The PPDP 2024 proceedings, ISBN 9-8-4007-0969-297, will be published in the ACM Digital Library within the ACM International Conference Proceedings Series.
 
 <img src="images/icps-logo-plain.jpg" alt="Image Description" width="300">
 
@@ -225,19 +362,17 @@ charge (APC) to publish their ICPS article in the ACM Digital
 Library. To determine whether or not an APC will be applicable to your
 article, please follow the detailed guidance [here](https://www.acm.org/publications/icps/author-guidance).
 
-
 Further information may be found on the ACM website, as follows:
 
 - Full details of the new [ICPS publishing model](https://www.acm.org/publications/icps/faq)
 - Full details of the [ACM Open program](https://www.acm.org/publications/openaccess). Please direct all questions about the new model [here](mailto:icps-info@acm.org).
-
 
 Format of a submission
 ----------------------
 
 For each paper category, you must use the most recent version of the
 [Current ACM Master
-Template](https://www.acm.org/publications/proceedings-template), 
+Template](https://www.acm.org/publications/proceedings-template),
  at the time of writing being 2.08. You must use the
 LaTeX sigconf proceedings template, as the conference organizers are
 unable to process final submissions in other formats. In case of
@@ -266,7 +401,7 @@ The reviewing is single-blind, with a two-days rebuttal phase.
 -->
 
 Important dates
--------------------------------- 
+--------------------------------
 
 Title and abstract registration: ~~06 May 2024~~ 15 May 2024 (AoE)
 
@@ -309,6 +444,5 @@ Program committee
 - Niccolò Veltri, Tallinn University of Technology
 - Yannick Zakowski, INRIA
 - Xuejing Huang, University of Hong Kong
-
 
 ![Image Description](images/acm-small.jpeg) ![Image Description](images/siglog.jpeg) ![Image Description](images/sigplan-small.jpg)
