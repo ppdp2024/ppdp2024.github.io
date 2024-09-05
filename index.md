@@ -27,6 +27,7 @@ related invited talk.
 All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=45&jaf_currentWFID=main)
 
 ### Tuesday
+
 ----------------
 
 **Session 1: Opening and Keynote**
@@ -36,7 +37,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Speaker:** Ningning Xie
 **Talk:** Safe and Easy Compile-Time Generative Programming
 
-##### 10:20 - 11:00 Coffee Break
+######  10:20 - 11:00 Coffee Break
 
 **Session 2**
 11:00 - 12:30
@@ -55,13 +56,14 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Paper:** Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language
 
 ---
+
 ##### 12:30 - 14:00 Lunch Break
 
 ---
 
 **Session 3**
 14:00 - 15:30
-**Chair:** TBA
+**Chair:** Roberto Casadei
 
 **14:00 - 14:30**
 **Authors:** **Zhengpu Shi** and Gang Chen
@@ -93,7 +95,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Authors:** **Cosimo Laneve**
 **Paper:** Reachability Analysis in Micro-Stipula
 
-#### 19:00 	FM24 RECEPTION BUFFET
+#### 19:00  FM24 RECEPTION BUFFET
 <!-- 
 | Time            | Authors                          | Paper                                                                 |
 |-----------------|----------------------------------|-----------------------------------------------------------------------|
@@ -115,7 +117,6 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 
 ### Wednesday
 
-
 **Session 5**
 09:00 - 10:30
 **Chair:** Maribel Fernandez
@@ -132,7 +133,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Authors:** Francisco Durán, **Santiago Escobar**, Jose Meseguer, and Julia Sapiña
 **Paper:** NuITP: An Inductive Theorem Prover for Equational Program Verification
 
-#### 10:30 - 11:00 Coffee Break
+##### 10:30 - 11:00 Coffee Break
 
 **Session 6**
 11:00 - 12:30
@@ -147,6 +148,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Paper:** sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions
 
 ---
+
 ##### 12:30 - 14:00 Lunch Break
 
 ---
@@ -163,7 +165,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Authors:** Ugo Dal Lago and **Luca Padovani**
 **Paper:** On the Almost-Sure Termination of Binary Sessions
 
-#### 15:30 - 16:00 Coffee Break
+##### 15:30 - 16:00 Coffee Break
 
 **Session 8**
 16:00 - 17:30
@@ -182,6 +184,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 **Paper:** Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report
 
 #### 17:30 Closing
+
 ---
 
 <!-- 
