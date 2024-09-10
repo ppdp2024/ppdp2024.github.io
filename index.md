@@ -36,7 +36,7 @@ All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/sp
 </thead>
 <tbody>
 <tr>
-<td colspan="2"><strong>Session 1: Opening and Keynote</strong><br><strong>Chair:</strong> <span class="chair">Alberto Momigliano</span> (Room <a href="https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=4513&jaf_currentWFID=main">O. De Donato</a>)</td>
+<td colspan="2"><strong>Session 1: Opening and Keynote</strong> (Room <a href="https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=4513&jaf_currentWFID=main">O. De Donato</a>)<br><strong>Chair:</strong> <span class="chair">Alberto Momigliano</span> </td>
 </tr>
 <tr>
 <td>09:00 - 10:20</td>
