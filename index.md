@@ -23,210 +23,229 @@ related invited talk.
 - Registration is still open. Go to the [Registration](https://www.fm24.polimi.it/?page_id=559) page. For PPDP, we suggest the 2-days pass.
 
 ## Program
-
 All research talks are held in room [3.1.3](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=45&jaf_currentWFID=main)
 
 ### Tuesday
 
-----------------
-
-**Session 1: Opening and Keynote**
-09:00 - 10:20 Room [O. De Donato](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=4513&jaf_currentWFID=main)
-**Chair:** Alberto Momigliano
-
-**Speaker:** Ningning Xie
-**Talk:** Safe and Easy Compile-Time Generative Programming
-
-######  10:20 - 11:00 Coffee Break
-
-**Session 2**
-11:00 - 12:30
-**Chair:** Tarmo Uustalu
-
-**11:00 - 11:30**
-**Authors:** **Davide Fissore** and Enrico Tassi
-**Paper:** Higher-Order unification for free!
-
-**11:30 - 12:00**
-**Authors:** José Espírito Santo and **Filipa Mendes**
-**Paper:** The logical essence of call-by-name CPS translations
-
-**12:00 - 12:30**
-**Authors:** **Maribel Fernandez** and Ian Mackie
-**Paper:** Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language
-
----
-
-##### 12:30 - 14:00 Lunch Break
-
----
-
-**Session 3**
-14:00 - 15:30
-**Chair:** Roberto Casadei
-
-**14:00 - 14:30**
-**Authors:** **Zhengpu Shi** and Gang Chen
-**Paper:** Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination
-
-**14:30 - 15:00**
-**Authors:** **Naoki Yamamoto** and Kazunori Ueda
-**Paper:** Grammar-based Pattern Matching and Type Checking for Difference Data Structures
-
-**15:00 - 15:30**
-**Authors:** Luca Laboccetta, **Elena Mastria**, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina
-**Paper:** Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events
-
-##### 15:30 - 16:00 Coffee Break
-
-**Session 4**
-16:00 - 17:30
-**Chair:** Carlos Olarte
-
-**16:00 - 16:30**
-**Authors:** **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell
-**Paper:** Evidence Tampering and Chain of Custody in Layered Attestations
-
-**16:30 - 17:00**
-**Authors:** **Christian Skalka** and Joseph Near
-**Paper:** Language-Based Security for Low-Level MPC
-
-**17:00 - 17:30**
-**Authors:** **Cosimo Laneve**
-**Paper:** Reachability Analysis in Micro-Stipula
-
-#### 19:00  FM24 RECEPTION BUFFET
-<!-- 
-| Time            | Authors                          | Paper                                                                 |
-|-----------------|----------------------------------|-----------------------------------------------------------------------|
-| 09:00 - 10:20   | Ningning Xie                     | _Keynote and  LOPSTR/PPDP joint speaker_:  Safe and Easy Compile-Time Generative Programming            |
-| 10:20 - 11:00   |                                  | Coffee Break                                                          |
-| 11:00 - 11:30   | **Davide Fissore** and Enrico Tassi                      | Higher-Order unification for free!                                    |
-| 11:30 - 12:00   | José Espírito Santo and **Filipa Mendes**                     | The logical essence of call-by-name CPS translations                  |
-| 12:00 - 12:30   | **Maribel Fernandez** and Ian Mackie            | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language |
-| 12:30 - 14:00   |                                  | Lunch Break                                                           |
-| 14:00 - 14:30   | **Zhengpu Shi** and Gang Chen             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
-| 14:30 - 15:00   | **Naoki Yamamoto** and Kazunori Ueda           | Grammar-based Pattern Matching and Type Checking for Difference Data Structures |
-| 15:00 - 15:30   | Luca Laboccetta, **Elena Mastria**, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina                | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
-| 15:30 - 16:00   |                                  | Coffee Break                                                          |
-| 16:00 - 16:30   | **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell                 | Evidence Tampering and Chain of Custody in Layered Attestations       |
-| 16:30 - 17:00   | **Christian Skalka** and Joseph Near                      | Language-Based Security for Low-Level MPC                             |
-| 17:00 - 17:30   |  **Cosimo Laneve**                        | Reachability Analysis in Micro-Stipula                                |
--->
----
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2"><strong>Session 1: Opening and Keynote</strong><br><strong>Chair:</strong> <span class="chair">Alberto Momigliano</span> (Room [O. De Donato](https://www7.ceda.polimi.it/spazi/spazi/controller/Aula.do?evn_init=event&lang=EN&idaula=4513&jaf_currentWFID=main))</td>
+</tr>
+<tr>
+<td>09:00 - 10:20</td>
+<td>
+<strong>Speaker:</strong> <span class="speaker">Ningning Xie</span><br>
+<strong>Talk:</strong> <span class="title">Safe and Easy Compile-Time Generative Programming</span>
+</td>
+</tr>
+<tr>
+<td>10:20 - 11:00</td>
+<td>Coffee Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 2</strong> (11:00 - 12:30)<br><strong>Chair:</strong> <span class="chair">Tarmo Uustalu</span></td>
+</tr>
+<tr>
+<td>11:00 - 11:30</td>
+<td>
+<span class="authors">Davide Fissore and Enrico Tassi</span><br>
+<span class="title">Higher-Order unification for free!</span>
+</td>
+</tr>
+<tr>
+<td>11:30 - 12:00</td>
+<td>
+<span class="authors">José Espírito Santo and Filipa Mendes</span><br>
+<span class="title">The logical essence of call-by-name CPS translations</span>
+</td>
+</tr>
+<tr>
+<td>12:00 - 12:30</td>
+<td>
+<span class="authors">Maribel Fernandez and Ian Mackie</span><br>
+<span class="title">Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language</span>
+</td>
+</tr>
+<tr>
+<td>12:30 - 14:00</td>
+<td>Lunch Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 3</strong> (14:00 - 15:30)<br><strong>Chair:</strong> <span class="chair">Roberto Casadei</span></td>
+</tr>
+<tr>
+<td>14:00 - 14:30</td>
+<td>
+<span class="authors">Zhengpu Shi and Gang Chen</span><br>
+<span class="title">Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination</span>
+</td>
+</tr>
+<tr>
+<td>14:30 - 15:00</td>
+<td>
+<span class="authors">Naoki Yamamoto and Kazunori Ueda</span><br>
+<span class="title">Grammar-based Pattern Matching and Type Checking for Difference Data Structures</span>
+</td>
+</tr>
+<tr>
+<td>15:00 - 15:30</td>
+<td>
+<span class="authors">Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina</span><br>
+<span class="title">Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events</span>
+</td>
+</tr>
+<tr>
+<td>15:30 - 16:00</td>
+<td>Coffee Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 4</strong> (16:00 - 17:30)<br><strong>Chair:</strong> <span class="chair">Carlos Olarte</span></td>
+</tr>
+<tr>
+<td>16:00 - 16:30</td>
+<td>
+<span class="authors">Ian Kretz, Paul Rowe, Clare Parran, and John Ramsdell</span><br>
+<span class="title">Evidence Tampering and Chain of Custody in Layered Attestations</span>
+</td>
+</tr>
+<tr>
+<td>16:30 - 17:00</td>
+<td>
+<span class="authors">Christian Skalka and Joseph Near</span><br>
+<span class="title">Language-Based Security for Low-Level MPC</span>
+</td>
+</tr>
+<tr>
+<td>17:00 - 17:30</td>
+<td>
+<span class="authors">Cosimo Laneve</span><br>
+<span class="title">Reachability Analysis in Micro-Stipula</span>
+</td>
+</tr>
+<tr>
+<td>19:00</td>
+<td>FM24 RECEPTION BUFFET</td>
+</tr>
+</tbody>
+</table>
 
 ### Wednesday
 
-**Session 5**
-09:00 - 10:30
-**Chair:** Maribel Fernandez
-
-**09:00 - 09:30**
-**Authors:** **Francisco Durán**, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott
-**Paper:** Programming Open Distributed Systems in Maude
-
-**09:30 - 10:00**
-**Authors:** Jaime Arias, **Carlos Olarte**, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk
-**Paper:** Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic
-
-**10:00 - 10:30**
-**Authors:** Francisco Durán, **Santiago Escobar**, Jose Meseguer, and Julia Sapiña
-**Paper:** NuITP: An Inductive Theorem Prover for Equational Program Verification
-
-##### 10:30 - 11:00 Coffee Break
-
-**Session 6**
-11:00 - 12:30
-**Chair:** Mariangiola Dezani-Ciancaglini
-
-**11:00 - 12:00**
-**Speaker:** Ilaria Castellani
-**Talk:** _PPDP Invited Talk_: A simple view of multiparty session types
-
-**12:00 - 12:30**
- **Authors:** **Francesco Dagnino** and Luca Padovani
-**Paper:** sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions
-
----
-
-##### 12:30 - 14:00 Lunch Break
-
----
-
-**Session 7**
-14:00 - 15:30
-**Chair:** Franco Barbanera
-
-**14:00 - 15:00**
-**Speaker:** Mariangiola Dezani-Ciancaglini
-**Talk:** _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types
-
-**15:00 - 15:30**
-**Authors:** Ugo Dal Lago and **Luca Padovani**
-**Paper:** On the Almost-Sure Termination of Binary Sessions
-
-##### 15:30 - 16:00 Coffee Break
-
-**Session 8**
-16:00 - 17:30
-**Chair:** Luca Padovani
-
-**16:00 - 16:30**
-**Authors:** **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro
-**Paper:** Un-projectable Global Types for Multiparty Sessions
-
-**16:30 - 17:00**
-**Authors:** Exequiel Rivas and **Tarmo Uustalu**
-**Paper:** Concurrent Monads for Shared State
-
-**17:00 - 17:30**
-**Authors:** **Roberto Casadei** and Mirko Viroli
-**Paper:** Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report
-
-#### 17:30 Closing
-
----
-
-<!-- 
-| Time            | Authors                          | Paper                                                                 |
-|-----------------|----------------------------------|-----------------------------------------------------------------------|
-| 09:00 - 09:30   | **Francisco Durán**, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott                         | Programming Open Distributed Systems in Maude                         |
-| 09:30 - 10:00   | Jaime Arias, **Carlos Olarte**, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk                | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
-| 10:00 - 10:30   | Francisco Durán, **Santiago Escobar**, Jose Meseguer, and Julia Sapiña                      | NuITP: An Inductive Theorem Prover for Equational Program Verification |
-| 10:30 - 11:00   |                                  | Coffee Break                                                          |
-| 11:00 - 12:00   | Ilaria Castellani                | _PPDP Invited Talk_: A simple view of multiparty session types                           |
-| 12:00 - 12:30   | **Francesco Dagnino** and Luca Padovani                  | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions|
-| 12:30 - 14:00   |                                  | Lunch Break                                                           |
-| 14:00 - 15:00   | Mariangiola Dezani-Ciancaglini   | _10 Year Most Influential Paper Award_: On the Preciseness of Subtyping in Session Types |
-| 15:00 - 15:30   | Ugo Dal Lago and **Luca Padovani**                        | On the Almost-Sure Termination of Binary Sessions                     |
-| 15:30 - 16:00   |                                  | Coffee Break                                                          |
-| 16:00 - 16:30   | **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro                      | Un-projectable Global Types for Multiparty Sessions                   |
-| 16:30 - 17:00   | Exequiel Rivas and **Tarmo Uustalu**               | Concurrent monads for shared state                                    |
-| 17:00 - 17:30   | **Roberto Casadei** and Mirko Viroli                     | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
-
-Accepted papers
------------
-
-|                                                |                                                                                       |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Davide Fissore and Enrico Tassi                       | Higher-Order unification for free!                                                         |
-| Francesco Dagnino and Luca Padovani                   | sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions                     |
-| Roberto Casadei and Mirko Viroli                      | Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report |
-| Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña | NuITP: An Inductive Theorem Prover for Equational Program Verification                |
-| Francisco Durán, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott | Programming Open Distributed Systems in Maude |
-| Maribel Fernandez and Ian Mackie                      | Hierarchical Higher-Order Port-Graphs: A Rewriting-Based Modelling Language                |
-| Ugo Dal Lago and Luca Padovani                        | On the Almost-Sure Termination of Binary Sessions                                           |
-| Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk | Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic |
-| José Espírito Santo and Filipa Mendes                 | The logical essence of call-by-name CPS translations                                         |
-| Zhengpu Shi and Gang Chen                             | Formal Verification of Executable Matrix Inversion via Adjoint Matrix and Gaussian Elimination |
-| Naoki Yamamoto and Kazunori Ueda                      | Grammar-based Pattern Matching and Type Checking for Difference Data Structures              |
-| **Ian Kretz**, Paul Rowe, Clare Parran, and John Ramsdell | Evidence Tampering and Chain of Custody in Layered Attestations                               |
-| **Franco Barbanera**, Mariangiola Dezani-Ciancaglini, and Ugo de'Liguoro | Un-projectable Global Types for Multiparty Sessions |
-| Christian Skalka and Joseph Near                      | Language-Based Security for Low-Level MPC                                                   |
-| Cosimo Laneve                                         | Reachability Analysis in Micro-Stipula                                                       |
-| Luca Laboccetta, Elena Mastria, Francesco Calimeri, Nicola Leone, Simona Perri, and Giorgio Terracina | Towards Effective ASP-based Stream Reasoning: Facilitate the Reasoning over Patterns of Events |
-| Exequiel Rivas and Tarmo Uustalu                      | Concurrent monads for shared state                                                          |
--->
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2"><strong>Session 5</strong> (09:00 - 10:30)<br><strong>Chair:</strong> <span class="chair">Maribel Fernandez</span></td>
+</tr>
+<tr>
+<td>09:00 - 09:30</td>
+<td>
+<span class="authors">Francisco Durán, Steven Eker, Santiago Escobar, Narciso Marti-Oliet, Jose Meseguer, Rubén Rubio, and Carolyn Talcott</span><br>
+<span class="title">Programming Open Distributed Systems in Maude</span>
+</td>
+</tr>
+<tr>
+<td>09:30 - 10:00</td>
+<td>
+<span class="authors">Jaime Arias, Carlos Olarte, Wojciech Penczek, Laure Petrucci, and Teofil Sidoruk</span><br>
+<span class="title">Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic</span>
+</td>
+</tr>
+<tr>
+<td>10:00 - 10:30</td>
+<td>
+<span class="authors">Francisco Durán, Santiago Escobar, Jose Meseguer, and Julia Sapiña</span><br>
+<span class="title">NuITP: An Inductive Theorem Prover for Equational Program Verification</span>
+</td>
+</tr>
+<tr>
+<td>10:30 - 11:00</td>
+<td>Coffee Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 6</strong> (11:00 - 12:30)<br><strong>Chair:</strong> <span class="chair">Mariangiola Dezani-Ciancaglini</span></td>
+</tr>
+<tr>
+<td>11:00 - 12:00</td>
+<td>
+<span class="authors">Ilaria Castellani</span><br>
+<span class="title">PPDP Invited Talk: A simple view of multiparty session types</span>
+</td>
+</tr>
+<tr>
+<td>12:00 - 12:30</td>
+<td>
+<span class="authors">Francesco Dagnino and Luca Padovani</span><br>
+<span class="title">sMALL CaPS: An Infinitary Linear Logic for a Calculus of Pure Sessions</span>
+</td>
+</tr>
+<tr>
+<td>12:30 - 14:00</td>
+<td>Lunch Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 7</strong> (14:00 - 15:30)<br><strong>Chair:</strong> <span class="chair">Franco Barbanera</span></td>
+</tr>
+<tr>
+<td>14:00 - 15:00</td>
+<td>
+<span class="authors">Mariangiola Dezani-Ciancaglini</span><br>
+<span class="title">10 Year Most Influential Paper Award: On the Preciseness of Subtyping in Session Types</span>
+</td>
+</tr>
+<tr>
+<td>15:00 - 15:30</td>
+<td>
+<span class="authors">Ugo Dal Lago and Luca Padovani</span><br>
+<span class="title">On the Almost-Sure Termination of Binary Sessions</span>
+</td>
+</tr>
+<tr>
+<td>15:30 - 16:00</td>
+<td>Coffee Break</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Session 8</strong> (16:00 - 17:30)<br><strong>Chair:</strong> <span class="chair">Luca Padovani</span></td>
+</tr>
+<tr>
+<td>16:00 - 16:30</td>
+<td>
+<span class="authors">Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro</span><br>
+<span class="title">Un-projectable Global Types for Multiparty Sessions</span>
+</td>
+</tr>
+<tr>
+<td>16:30 - 17:00</td>
+<td>
+<span class="authors">Exequiel Rivas and Tarmo Uustalu</span><br>
+<span class="title">Concurrent Monads for Shared State</span>
+</td>
+</tr>
+<tr>
+<td>17:00 - 17:30</td>
+<td>
+<span class="authors">Roberto Casadei and Mirko Viroli</span><br>
+<span class="title">Declarative Macro-Programming of Collective Systems with Aggregate Computing: An Experience Report</span>
+</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td>Closing</td>
+</tr>
+</tbody>
+</table>
 
 Scope
 -----
